@@ -1,0 +1,23 @@
+<ShutdownReport>
+<USERCONFIG_ID Value="c3526dae-fde9-4177-aa60-03db4f4c6b72"/>
+<MEM_AVAILABLE Value="25095901184"/>
+<UI_SCENE Value="PauseMenuTiled"/>
+<THP_WinVer Value="10.0.19045.3448"/>
+<THP_CPU0Name Value="AMD Ryzen 5 4600H with Radeon Graphics         "/>
+<THP_GPU0Name Value="THP GTX 1650"/>
+<THP_GPU0Description Value="NVIDIA GeForce GTX 1650 Ti"/>
+<THP_GPU0Driver Value="31.0.15.3640"/>
+<THP_THPBucket Value="High|60|1080"/>
+<BUILD Value="405002"/>
+<PLATFORM Value="PC_Steam"/>
+<FLAVOR Value="ReleaseFinal"/>
+<SANDBOX Value="RETAIL"/>
+<UPTIME Value="0.000000"/>
+<CAM_POS Value="891.927002,227.753632,1872.099121"/>
+<SESSION_ID Value="889b5bd5-9b6c-4acb-9d4b-10e98c18bb67"/>
+<SYSTEM_OS_VERSION Value="10.0.19045.3448"/>
+<SYSTEM_HOSTING_OS_VERSION Value="10.0.19045.3448"/>
+<SYSTEM_FAMILY Value=""/>
+<SYSTEM_FORM Value=""/>
+<SYSTEM_OS_NAME Value="Windows 10 Home Single Language"/>
+</ShutdownReport>
