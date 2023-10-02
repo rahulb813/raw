@@ -36,7 +36,7 @@
     <ResolutionWidth value="1920"/>
     <ResolutionHeight value="1080"/>
     <Fullscreen value="1"/>
-    <ShowFPS isDynamic="0" dynamicValue="Default" name="Default" value="1"/>
+    <ShowFPS isDynamic="1" dynamicValue="Default" name="Default" value="1"/>
     <UseDynamicOptimization value="1"/>
     <DeformableSnowQuality isDynamic="0" dynamicValue="" Active="1" TessellationLOD0Dist="12.000000" TessellationLOD0EdgeLength="0.250000" TessellationLOD1Dist="20.000000" TessellationLOD1EdgeLength="1.000000" TessellationLOD2Dist="35.000000" TessellationLOD2EdgeLength="2.000000" VertexModifyMinDist="20.000000" VertexModifyMaxDist="35.000000"/>
     <SSRQuality isDynamic="1" dynamicValue="High"/>
