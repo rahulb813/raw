@@ -74,7 +74,7 @@
     <option id="UseDynamicOptimization" value="0"/>
     <option id="FrameRate" value="3"/>
     <option id="VSync" value="1"/>
-    <option id="EnableHDR" value="0"/>
+    <option id="EnableHDR" value="1"/>
     <option id="MotionBlurAmount" value="1"/>
     <option id="ShowFPS" value="1"/>
     <option id="ResolutionScaling" value="0"/>
