@@ -79,6 +79,7 @@
     <option id="ShowFPS" value="1"/>
     <option id="ResolutionScaling" value="0"/>
     <option id="Anisotropic" value="2"/>
+    
     <option id="ShadowQuality" value="4"/>
     <option id="NightShadows" value="0"/>
     <option id="MotionBlurQuality" value="2"/>
