@@ -1,5 +1,5 @@
 #
-# IoT Project
+# IoT Project - Health Monitoring System
 
 ## Teammates
 - Rahul - 2006028
