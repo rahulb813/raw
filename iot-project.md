@@ -1,3 +1,4 @@
+#
 # IoT Project
 
 ## Teammates
@@ -6,7 +7,7 @@
 - Veda - 2006032
 - Annu - 2006038
 - Smita - 2006011
-
+#
 ## Tools Required
 - [Arduino Uno R3](https://www.flipkart.com/arduino-uno-r3-smd-development-board-usb-cable-micro-controller-electronic-components-hobby-kit/p/itmcf279bd547173?pid=EHKGN9V2VCDART5G&lid=LSTEHKGN9V2VCDART5GWUW8YE&marketplace=FLIPKART&q=arduino&store=tng&srno=s_1_2&otracker=search&iid=2738bcea-4a4d-4cbf-b81f-daf9dace7ea8.EHKGN9V2VCDART5G.SEARCH&ssid=y1k23n3xuo0000001696783303430&qH=75f5750f6dd6afbe) - Rs. 480
 - [Wi-Fi Module ESP 826601](https://www.amazon.in/Robodo-MO16-Esp8266-Wireless-Transceiver/dp/B073Q2X8G7/ref=sr_1_2?keywords=wifi+module+esp8266&qid=1696783782&sr=8-2) - Rs. 400
@@ -20,8 +21,10 @@
 - [Jumper Wires](https://www.amazon.in/Robotbanao-Female-Breadboard-Arduino-Raspberry/dp/B08TC3H64C/ref=sr_1_3_sspa?keywords=jumper+wires&qid=1696784264&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - Rs. 100  
 #
 ### Payment Summary
+#
 ### Grand Total - 2500 approx - 500 per head 
 #### <span style="color:#4adfff">Note</span>: remaining money will be returned back accordingly
 ![QR Code](image.png)
 #
 ### Send screenshot of payment to Venkatarao [here](https://wa.me/7670832799)
+#
