@@ -20,7 +20,7 @@
 - [Jumper Wires](https://www.amazon.in/Robotbanao-Female-Breadboard-Arduino-Raspberry/dp/B08TC3H64C/ref=sr_1_3_sspa?keywords=jumper+wires&qid=1696784264&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - Rs. 100  
 #
 ### Grand Total - 2500 approx - 500 per head 
-#### [Note](): remaining money will be returned back accordingly
+#### <span style="color:cyan">Note</span>: remaining money will be returned back accordingly
 ### Payment Summary
 ![QR Code](image.png)
 #
