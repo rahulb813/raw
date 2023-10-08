@@ -1,6 +1,7 @@
 
 <UserConfig Version="30" HardwareHash="0">
   <settings>
+  <!-- tweaks done beyond the GPU limits -->
     <PresentInterval value="2"/>
     <MonitorRefreshPeriod value="0.016667"/>
     <ForceAnisoFiltering isDynamic="1" dynamicValue="High"/>
