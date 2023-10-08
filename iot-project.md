@@ -18,7 +18,7 @@
 - [1K Resistor](https://www.amazon.in/s?k=1k+resistor) - Rs. 50
 - [Breadboard + Wires Combo](https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN/ref=sr_1_5?keywords=breadboard&qid=1696784324&sr=8-5) - Rs. 150
 - [Jumper Wires](https://www.amazon.in/Robotbanao-Female-Breadboard-Arduino-Raspberry/dp/B08TC3H64C/ref=sr_1_3_sspa?keywords=jumper+wires&qid=1696784264&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - Rs. 100  
-
+#
 ### Grand Total - 2500 approx - 500 per head 
 #### [Note](): remaining money will be returned back accordingly
 ### Payment Summary
