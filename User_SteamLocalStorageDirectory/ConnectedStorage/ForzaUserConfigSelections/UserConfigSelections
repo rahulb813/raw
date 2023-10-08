@@ -3,6 +3,7 @@
   <settings>
   <!-- tweaks done beyond the GPU limits -->
   <!-- tweaks done far -->
+  <!-- Increased DXR Quality to 2 -->
     <PresentInterval value="2"/>
     <MonitorRefreshPeriod value="0.016667"/>
     <ForceAnisoFiltering isDynamic="1" dynamicValue="High"/>
