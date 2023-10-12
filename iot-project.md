@@ -5,7 +5,7 @@
 - Rahul - 2006028
 - Venkatarao - 2006014
 - Veda - 2006032
-- Annu - 2006038
+- Annu - 2006038 - <span style="color:cyan">Paid</span>
 - Smita - 2006011
 #
 ## Tools Required
