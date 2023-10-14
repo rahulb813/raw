@@ -26,5 +26,3 @@
 #### <span style="color:#4adfff">Note</span>: remaining money will be returned back accordingly
 ![QR Code](image.png)
 #
-### Send screenshot of payment to Venkatarao [here](https://wa.me/7670832799)
-#
