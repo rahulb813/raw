@@ -3,7 +3,7 @@
 <MEM_AVAILABLE Value="25095901184"/>
 <UI_SCENE Value="WaitForInstallFromSplash"/>
 <THP_WinVer Value="10.0.19045.3086"/>
-<!-- build stabilized -->
+<!-- build updated -->
 <THP_CPU0Name Value="AMD Ryzen 5 4600H with Radeon Graphics"/>
 <THP_GPU0Name Value="THP GTX 1650"/>
 <THP_GPU0Description Value="NVIDIA GeForce GTX 1650 Ti"/>
