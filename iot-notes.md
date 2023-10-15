@@ -138,4 +138,31 @@ Servers can provide executable code or scripts for clients to execute in their c
 -   The request (called websocket handshake) is sent over HTTP and the server interprets it is an upgrade request.
 -   Websocket API reduces the network traffic and latency as there is no overhead for connection setup and termination requests for each message.
 
+## IoT Enabling Technologies
+
+### Wireless Sensor Network
+
+-   It consists of end nodes, routers and coordinators.
+-   Sensor collect the data and send it to the coordinators with the help of routers.
+-   Example: Weather Forecast, AQI Monitor, Soil Moisture, Health Monitoring Systems.
+
+### Cloud Computing
+
+The ability of enabling utilites of applications over the internet. <br><br>
+
+#### Characteristics:
+
+-   Broad network access
+-   On demand self-services
+-   Rapid scalability
+-   Measured service
+-   Pay-per-use
+
+#### Services: 
+#### IaaS - Infrastructure as a service
+- Provides servies like VMs, Compute Engines etc.,
+#### PaaS - Platform as a service
+- Platform to develop applications that consists of several libraries and hardware specifications like App Cloud, Google App Engine.
+#### SaaS - Software as a service
+- Providing softwares for uilitization like GMail, Office365 etc.,
 ## [Unit 2](#s3)
