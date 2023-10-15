@@ -10,5 +10,5 @@
 - Sensors and Actuators: Sensors collect and send data, actuators receive and operate according to given data
 - Automation: IoT devices enable automation by responding to certain conditions in real-life without human involvement.
 - Interoperability: IoT devices are bound to function accordingly despite originating from different manufacturers. 
- 
+- Energy Efficient: Most IoT devices perform robustly with consuming less power.  
 ## [Unit 2](#s3)
