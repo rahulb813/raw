@@ -78,14 +78,64 @@
 -   When the broker receive data for a topic from the publisher, it sends the data to all the subscribed consumers.
 
 ### Push-Pull Model
+
 ![Push-Pull Model](image-7.png)
-- Push-Pull is a communication model in which the data producers push the data to queues and the consumers Pull the data from the Queues.
-- Producers do not need to be aware of the consumers. Queues help in decoupling the messaging between the Producers and Consumers.
-- Queues also act as a buffer which helps in situations when there is a mismatch between the rate at which the producers push data and the rate rate at which the consumer pull data.
+
+-   Push-Pull is a communication model in which the data producers push the data to queues and the consumers Pull the data from the Queues.
+-   Producers do not need to be aware of the consumers. Queues help in decoupling the messaging between the Producers and Consumers.
+-   Queues also act as a buffer which helps in situations when there is a mismatch between the rate at which the producers push data and the rate rate at which the consumer pull data.
 
 ### Exclusive Pair Communication Model
+
 ![Exclusive Pair Communication Model](image-8.png)
-- Exclusive Pair is a bidirectional, fully duplex communication model that uses a persistent connection between the client and server.
-- Connection is setup it remains open until the client sends a request to close the connection. Client and server can send messages to each other after connection setup.
-- Exclusive pair is stateful communication model and the server is aware of all the open connections.
+
+-   Exclusive Pair is a bidirectional, fully duplex communication model that uses a persistent connection between the client and server.
+-   Connection is setup it remains open until the client sends a request to close the connection. Client and server can send messages to each other after connection setup.
+-   Exclusive pair is stateful communication model and the server is aware of all the open connections.
+
+## APIs in IoT
+
+### REST-based Communication APIs
+
+-   REST stands for Representational state transfer
+
+### Architecture for REST API
+
+#### Client-server:
+
+The principle behind the client-server constraint is the separation of concerns. Separation allows client and server to be independently developed and updated.
+
+#### Stateless:
+
+Each request from client to server must contain all the information necessary to understand the request. The session state is kept entirely on the client.
+
+#### Cache-able:
+
+Cache constraints requires that the data within a response to a request be implicitly or explicitly leveled as cache-able or non cache-able. <br><br>
+If a response is cache-able, then a client cache is given the right to reuse that repsonse data for later, equivalent requests. caching can partially or completely eliminate some instructions and improve efficiency and scalability.
+
+#### Layered system:
+
+Layered system constrains the behavior of components such that each component cannot see the next layer after them. For example, the client cannot tell whether it is connected directly to the end server or to an intermediary along the way. <br><br>
+In this way, the system scalability can be improved.
+
+#### Uniform interface:
+
+-   It states that the communication medium between the server and client must be uniform
+-   Resources are identified in the requests and are they are separate from the resources of data returned to the client.
+-   When a client holds a representation of resources it has all the information required to update or delete the resources mentioned. Each message includes enough information to describe how to process the message.
+
+#### Code on demand:
+
+Servers can provide executable code or scripts for clients to execute in their context. this constraint is the only one that is optional.
+
+### WebSocket based communication API
+
+![WebSocket based communication API](image-9.png)
+
+-   It is bi-directional and full duplex connection b/w client and server.
+-   Unlike REST API, WebSocket does not require new connection for each new message.
+-   The request (called websocket handshake) is sent over HTTP and the server interprets it is an upgrade request.
+-   Websocket API reduces the network traffic and latency as there is no overhead for connection setup and termination requests for each message.
+
 ## [Unit 2](#s3)
