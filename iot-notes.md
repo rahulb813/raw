@@ -4,7 +4,10 @@
 
 ## [Unit 1](#s1)
 
-### [Intro](#s2)
+- ### Intro
+- ### [Structure](#s3)
+- ### [Protocols](#s4)
+- ### [Logical Design](#s5)
 
 -   Definition: An interconnected network of devices that are embedded with sensors, actuators, their appropriate software and network connectivity.
 
@@ -15,7 +18,7 @@
 -   Automation: IoT devices enable automation by responding to certain conditions in real-life without human involvement.
 -   Interoperability: IoT devices are bound to function accordingly despite originating from different manufacturers.
 -   Energy Efficient: Most IoT devices perform robustly with consuming less power.
-
+<a id = "s3"></a>
 #### Structural Design
 
 ![Structure](image-1.png)
@@ -24,6 +27,7 @@
 
 -   All the individual components in an IoT device are considered as things of IoT.
 
+<a id = "s4"></a>
 ### Protocols in IoT
 
 ![Protocols List](image-2.png)
@@ -36,8 +40,9 @@
 -   DDS - Data Distribution Service - For data exchange from machine to machine with a brokerless architecture like MQTT and CoAP protocols.
 -   AMQP - Advanced Message Queueing Protocol - Supports asynchronous messaging with encryption, purpose stands for more complex networks.
 
-### Logical Design of IoT
 
+<a id = "s5"></a>
+### Logical Design of IoT
 ![Logical Design](image-3.png)
 
 #### [ChatGPT](https://chat.openai.com/share/2e87725b-6175-467c-9c68-f76c4e58b429) link for this topic
