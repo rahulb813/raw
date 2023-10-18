@@ -4,7 +4,7 @@
 <USERCONFIG_ID Value="94e23f9d-b807-4b3f-9dc4-290b26ce313b"/>
 <MEM_AVAILABLE Value="25095901184"/>
 <UI_SCENE Value="WaitForInstallFromSplash"/>
-<THP_WinVer Value="10.0.19045.3448"/>
+<THP_WinVer Value="10.0.19045.3570"/>
 <!-- build updated -->
 <THP_CPU0Name Value="AMD Ryzen 5 4600H with Radeon Graphics"/>
 <THP_GPU0Name Value="THP GTX 1650"/>
