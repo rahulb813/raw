@@ -11,11 +11,14 @@
 - OS
 # Java
 - JDBC
+- serialization
+- multithreading
+- interfaces
 - socket
 - collections
 - oops 
 - keywords
-- swing
+- swing - part
 - SPRING
 # MySQL
 - basic def
