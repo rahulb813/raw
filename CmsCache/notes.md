@@ -43,3 +43,6 @@
 ![alt text](image-1.png)
 ## Waterfall model
 - basic ga ikkada anni one by one avthai anamaata like requirements -> design -> impl.... ila
+- advantages entante simple, easy to understand 
+- disadvantages entante ekkada ee phase lo emanna issue ochina dhaaniki fix kosam starting nunchi cheyyali - so chaala inefficient
+
