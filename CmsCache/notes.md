@@ -12,3 +12,5 @@
 
 ### Define Requirements
 - Ikkada SRS documentation chuskuntaaru functional requirements enti technical requirements enti ani
+- functional ante basic ga em em features ivaali, dhaani major tasks enti ani oka overall view
+- technical ante quality based factors anamaata - ante performance entha, efficiency entha ala...
