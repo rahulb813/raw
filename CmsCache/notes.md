@@ -52,3 +52,6 @@
 - its flexible enough to make any changes at any point of time
 - indhulo client kuda madyalo feedbacks ichina kuda easy to update - so flexible again
 - delivery time kuda chala thakkuva - compared to waterfall model
+![alt text](image-2.png)
+
+![alt text](image-3.png)
