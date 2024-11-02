@@ -33,4 +33,5 @@
 - white box testing - ante ikkada malli code level lo testing and debugging chestharu - idhi developers chestharu
 
 ### Deployment and Maintenance
-- 
+- ikkada basic ga eppudu release cheyyali ani plan chestaru
+- okasari chesaaka basis bugs unte automation lo solve cheyyadam - emanna strange bugs unte appatiki appudu solve cheyyadam - basic ga devops chese pani antha
