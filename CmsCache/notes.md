@@ -51,3 +51,4 @@
 - indhulo life cycle antha sprints laga split ayi untai
 - its flexible enough to make any changes at any point of time
 - indhulo client kuda madyalo feedbacks ichina kuda easy to update - so flexible again
+- delivery time kuda chala thakkuva - compared to waterfall model
