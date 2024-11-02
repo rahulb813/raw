@@ -46,3 +46,8 @@
 - advantages entante simple, easy to understand 
 - disadvantages entante ekkada ee phase lo emanna issue ochina dhaaniki fix kosam starting nunchi cheyyali - so chaala inefficient
 
+## Agile Model
+- implementation antha cycle laga untadhi 
+- indhulo life cycle antha sprints laga split ayi untai
+- its flexible enough to make any changes at any point of time
+- indhulo client kuda madyalo feedbacks ichina kuda easy to update - so flexible again
