@@ -7,5 +7,8 @@
 
 ### Planning 
 - project scope entha 
-- budget entha 
-- ee katha antha ee stage lo chestharu
+- ee project ki unna goals enti ivanni
+- resource plans vestharu i.e., entha mandhi developers kavali aa workstations etc idhi antha
+
+### Define Requirements
+- Ikkada SRS documentation chuskuntaaru functional requirements enti technical requirements enti ani
